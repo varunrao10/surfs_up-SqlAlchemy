@@ -18,4 +18,4 @@ The purpose of this challenge was to access the flat file "hawaii.sqlite", creat
 
 ## Summary:
 From the analysis of both months, the diffrence between both months statistical temperatures is pretty low thus the weather in june would approximatley be very similar to december.
-To gather more weather data for June and December a query to analyze the precipitation that occurs in both of these month can be created and another query to find the most active stations for further analysis.
+To gather more weather data for June and December a query to analyze the precipitation that occurs in both of these months can be created and another query to find the most active stations for further analysis.
